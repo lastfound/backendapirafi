@@ -21,7 +21,7 @@ const groq = new OpenAI({
 });
 
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:3000', 'https://lastfound.github.io/portofoliio/', 'https://lastfound.github.io/'] // Sesuaikan dengan frontend kamu
+  origin: ['http://localhost:5173', 'http://localhost:3000', 'https://lastfound.github.io/portofoliio/', 'https://lastfound.github.io/', 'https://portofoliio-plum.vercel.app/'] // Sesuaikan dengan frontend kamu
 }));
 app.use(express.json());
 
