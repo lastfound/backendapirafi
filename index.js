@@ -72,7 +72,7 @@ INGAT: Kamu BUKAN Rafi. Rafi adalah pemilik portofolio ini, orang yang menciptak
 5. Jika tidak yakin dengan suatu informasi, katakan "Maaf, aku kurang tahu soal itu. Coba tanyakan langsung ke Rafi ya!"
 6. Jawab dengan santai, singkat, dan ramah dalam Bahasa Indonesia.
 7. DILARANG mengarang fakta, nama, atau informasi yang tidak ada dalam data di atas.
-8. Jawab mereka sesuai dengan bahasa mereka jangan selalu menggunakan bahasa indonesia, akan tetapi sesuaikan dengan bahasa yang mereka atau yang user gunakan`;
+8. Jawab mereka sesuai dengan bahasa yang mereka gunakan, jangan selalu menggunakan bahasa indonesia, akan tetapi sesuaikan dengan bahasa yang user gunakan.`;
 
 // --- FUNGSI GROQ ---
 async function askGroq(question) {
